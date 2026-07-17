@@ -1,0 +1,366 @@
+[
+    {
+        "id": 13,
+        "value": "Premier League",
+        "flag": "<img title=\"Angleterre\" alt=\"\" src=\"https://cdn.sofifa.net/flags/gb-eng.png\" data-srcset=\"https://cdn.sofifa.net/flags/gb-eng@2x.png 2x, https://cdn.sofifa.net/flags/gb-eng@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 14,
+        "nationName": "Angleterre"
+    },
+    {
+        "id": 31,
+        "value": "Serie A",
+        "flag": "<img title=\"Italie\" alt=\"\" src=\"https://cdn.sofifa.net/flags/it.png\" data-srcset=\"https://cdn.sofifa.net/flags/it@2x.png 2x, https://cdn.sofifa.net/flags/it@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 27,
+        "nationName": "Italie"
+    },
+    {
+        "id": 53,
+        "value": "La Liga",
+        "flag": "<img title=\"Espagne\" alt=\"\" src=\"https://cdn.sofifa.net/flags/es.png\" data-srcset=\"https://cdn.sofifa.net/flags/es@2x.png 2x, https://cdn.sofifa.net/flags/es@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 45,
+        "nationName": "Espagne"
+    },
+    {
+        "id": 19,
+        "value": "Bundesliga",
+        "flag": "<img title=\"Allemagne\" alt=\"\" src=\"https://cdn.sofifa.net/flags/de.png\" data-srcset=\"https://cdn.sofifa.net/flags/de@2x.png 2x, https://cdn.sofifa.net/flags/de@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 21,
+        "nationName": "Allemagne"
+    },
+    {
+        "id": 16,
+        "value": "Ligue 1",
+        "flag": "<img title=\"France\" alt=\"\" src=\"https://cdn.sofifa.net/flags/fr.png\" data-srcset=\"https://cdn.sofifa.net/flags/fr@2x.png 2x, https://cdn.sofifa.net/flags/fr@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 18,
+        "nationName": "France"
+    },
+    {
+        "id": 14,
+        "value": "Championship",
+        "flag": "<img title=\"Angleterre\" alt=\"\" src=\"https://cdn.sofifa.net/flags/gb-eng.png\" data-srcset=\"https://cdn.sofifa.net/flags/gb-eng@2x.png 2x, https://cdn.sofifa.net/flags/gb-eng@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 14,
+        "nationName": "Angleterre"
+    },
+    {
+        "id": 60,
+        "value": "League One",
+        "flag": "<img title=\"Angleterre\" alt=\"\" src=\"https://cdn.sofifa.net/flags/gb-eng.png\" data-srcset=\"https://cdn.sofifa.net/flags/gb-eng@2x.png 2x, https://cdn.sofifa.net/flags/gb-eng@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 14,
+        "nationName": "Angleterre"
+    },
+    {
+        "id": 61,
+        "value": "League Two",
+        "flag": "<img title=\"Angleterre\" alt=\"\" src=\"https://cdn.sofifa.net/flags/gb-eng.png\" data-srcset=\"https://cdn.sofifa.net/flags/gb-eng@2x.png 2x, https://cdn.sofifa.net/flags/gb-eng@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 14,
+        "nationName": "Angleterre"
+    },
+    {
+        "id": 32,
+        "value": "Serie B",
+        "flag": "<img title=\"Italie\" alt=\"\" src=\"https://cdn.sofifa.net/flags/it.png\" data-srcset=\"https://cdn.sofifa.net/flags/it@2x.png 2x, https://cdn.sofifa.net/flags/it@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 27,
+        "nationName": "Italie"
+    },
+    {
+        "id": 54,
+        "value": "La Liga 2",
+        "flag": "<img title=\"Espagne\" alt=\"\" src=\"https://cdn.sofifa.net/flags/es.png\" data-srcset=\"https://cdn.sofifa.net/flags/es@2x.png 2x, https://cdn.sofifa.net/flags/es@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 45,
+        "nationName": "Espagne"
+    },
+    {
+        "id": 20,
+        "value": "2. Bundesliga",
+        "flag": "<img title=\"Allemagne\" alt=\"\" src=\"https://cdn.sofifa.net/flags/de.png\" data-srcset=\"https://cdn.sofifa.net/flags/de@2x.png 2x, https://cdn.sofifa.net/flags/de@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 21,
+        "nationName": "Allemagne"
+    },
+    {
+        "id": 2076,
+        "value": "3. Liga",
+        "flag": "<img title=\"Allemagne\" alt=\"\" src=\"https://cdn.sofifa.net/flags/de.png\" data-srcset=\"https://cdn.sofifa.net/flags/de@2x.png 2x, https://cdn.sofifa.net/flags/de@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 21,
+        "nationName": "Allemagne"
+    },
+    {
+        "id": 17,
+        "value": "Ligue 2",
+        "flag": "<img title=\"France\" alt=\"\" src=\"https://cdn.sofifa.net/flags/fr.png\" data-srcset=\"https://cdn.sofifa.net/flags/fr@2x.png 2x, https://cdn.sofifa.net/flags/fr@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 18,
+        "nationName": "France"
+    },
+    {
+        "id": 10,
+        "value": "Eredivisie",
+        "flag": "<img title=\"Pays-Bas\" alt=\"\" src=\"https://cdn.sofifa.net/flags/nl.png\" data-srcset=\"https://cdn.sofifa.net/flags/nl@2x.png 2x, https://cdn.sofifa.net/flags/nl@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 34,
+        "nationName": "Pays-Bas"
+    },
+    {
+        "id": 308,
+        "value": "Primeira Liga",
+        "flag": "<img title=\"Portugal\" alt=\"\" src=\"https://cdn.sofifa.net/flags/pt.png\" data-srcset=\"https://cdn.sofifa.net/flags/pt@2x.png 2x, https://cdn.sofifa.net/flags/pt@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 38,
+        "nationName": "Portugal"
+    },
+    {
+        "id": 4,
+        "value": "Pro League",
+        "flag": "<img title=\"Belgique\" alt=\"\" src=\"https://cdn.sofifa.net/flags/be.png\" data-srcset=\"https://cdn.sofifa.net/flags/be@2x.png 2x, https://cdn.sofifa.net/flags/be@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 7,
+        "nationName": "Belgique"
+    },
+    {
+        "id": 319,
+        "value": "První liga",
+        "flag": "<img title=\"République tchèque\" alt=\"\" src=\"https://cdn.sofifa.net/flags/cz.png\" data-srcset=\"https://cdn.sofifa.net/flags/cz@2x.png 2x, https://cdn.sofifa.net/flags/cz@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 12,
+        "nationName": "République tchèque"
+    },
+    {
+        "id": 68,
+        "value": "Süper Lig",
+        "flag": "<img title=\"Turquie\" alt=\"\" src=\"https://cdn.sofifa.net/flags/tr.png\" data-srcset=\"https://cdn.sofifa.net/flags/tr@2x.png 2x, https://cdn.sofifa.net/flags/tr@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 48,
+        "nationName": "Turquie"
+    },
+    {
+        "id": 41,
+        "value": "Eliteserien",
+        "flag": "<img title=\"Norvège\" alt=\"\" src=\"https://cdn.sofifa.net/flags/no.png\" data-srcset=\"https://cdn.sofifa.net/flags/no@2x.png 2x, https://cdn.sofifa.net/flags/no@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 36,
+        "nationName": "Norvège"
+    },
+    {
+        "id": 1,
+        "value": "Superliga",
+        "flag": "<img title=\"Danemark\" alt=\"\" src=\"https://cdn.sofifa.net/flags/dk.png\" data-srcset=\"https://cdn.sofifa.net/flags/dk@2x.png 2x, https://cdn.sofifa.net/flags/dk@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 13,
+        "nationName": "Danemark"
+    },
+    {
+        "id": 63,
+        "value": "Super League",
+        "flag": "<img title=\"Grèce\" alt=\"\" src=\"https://cdn.sofifa.net/flags/gr.png\" data-srcset=\"https://cdn.sofifa.net/flags/gr@2x.png 2x, https://cdn.sofifa.net/flags/gr@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 22,
+        "nationName": "Grèce"
+    },
+    {
+        "id": 80,
+        "value": "Bundesliga",
+        "flag": "<img title=\"Autriche\" alt=\"\" src=\"https://cdn.sofifa.net/flags/at.png\" data-srcset=\"https://cdn.sofifa.net/flags/at@2x.png 2x, https://cdn.sofifa.net/flags/at@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 4,
+        "nationName": "Autriche"
+    },
+    {
+        "id": 189,
+        "value": "Super League",
+        "flag": "<img title=\"Suisse\" alt=\"\" src=\"https://cdn.sofifa.net/flags/ch.png\" data-srcset=\"https://cdn.sofifa.net/flags/ch@2x.png 2x, https://cdn.sofifa.net/flags/ch@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 47,
+        "nationName": "Suisse"
+    },
+    {
+        "id": 50,
+        "value": "Premiership",
+        "flag": "<img title=\"Ecosse\" alt=\"\" src=\"https://cdn.sofifa.net/flags/gb-sct.png\" data-srcset=\"https://cdn.sofifa.net/flags/gb-sct@2x.png 2x, https://cdn.sofifa.net/flags/gb-sct@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 42,
+        "nationName": "Ecosse"
+    },
+    {
+        "id": 66,
+        "value": "Ekstraklasa",
+        "flag": "<img title=\"Pologne\" alt=\"\" src=\"https://cdn.sofifa.net/flags/pl.png\" data-srcset=\"https://cdn.sofifa.net/flags/pl@2x.png 2x, https://cdn.sofifa.net/flags/pl@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 37,
+        "nationName": "Pologne"
+    },
+    {
+        "id": 317,
+        "value": "Hrvatska nogometna liga",
+        "flag": "<img title=\"Croatie\" alt=\"\" src=\"https://cdn.sofifa.net/flags/hr.png\" data-srcset=\"https://cdn.sofifa.net/flags/hr@2x.png 2x, https://cdn.sofifa.net/flags/hr@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 10,
+        "nationName": "Croatie"
+    },
+    {
+        "id": 332,
+        "value": "Premier League",
+        "flag": "<img title=\"Ukraine\" alt=\"\" src=\"https://cdn.sofifa.net/flags/ua.png\" data-srcset=\"https://cdn.sofifa.net/flags/ua@2x.png 2x, https://cdn.sofifa.net/flags/ua@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 49,
+        "nationName": "Ukraine"
+    },
+    {
+        "id": 56,
+        "value": "Allsvenskan",
+        "flag": "<img title=\"Suède\" alt=\"\" src=\"https://cdn.sofifa.net/flags/se.png\" data-srcset=\"https://cdn.sofifa.net/flags/se@2x.png 2x, https://cdn.sofifa.net/flags/se@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 46,
+        "nationName": "Suède"
+    },
+    {
+        "id": 64,
+        "value": "Nemzeti Bajnokság I",
+        "flag": "<img title=\"Hongrie\" alt=\"\" src=\"https://cdn.sofifa.net/flags/hu.png\" data-srcset=\"https://cdn.sofifa.net/flags/hu@2x.png 2x, https://cdn.sofifa.net/flags/hu@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 23,
+        "nationName": "Hongrie"
+    },
+    {
+        "id": 318,
+        "value": "1. Division",
+        "flag": "<img title=\"Chypre\" alt=\"\" src=\"https://cdn.sofifa.net/flags/cy.png\" data-srcset=\"https://cdn.sofifa.net/flags/cy@2x.png 2x, https://cdn.sofifa.net/flags/cy@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 11,
+        "nationName": "Chypre"
+    },
+    {
+        "id": 330,
+        "value": "Liga I",
+        "flag": "<img title=\"Roumanie\" alt=\"\" src=\"https://cdn.sofifa.net/flags/ro.png\" data-srcset=\"https://cdn.sofifa.net/flags/ro@2x.png 2x, https://cdn.sofifa.net/flags/ro@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 39,
+        "nationName": "Roumanie"
+    },
+    {
+        "id": 313,
+        "value": "Premyer Liqa",
+        "flag": "<img title=\"Azerbaïdjan\" alt=\"\" src=\"https://cdn.sofifa.net/flags/az.png\" data-srcset=\"https://cdn.sofifa.net/flags/az@2x.png 2x, https://cdn.sofifa.net/flags/az@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 5,
+        "nationName": "Azerbaïdjan"
+    },
+    {
+        "id": 65,
+        "value": "Premier Division",
+        "flag": "<img title=\"République d'Irlande\" alt=\"\" src=\"https://cdn.sofifa.net/flags/ie.png\" data-srcset=\"https://cdn.sofifa.net/flags/ie@2x.png 2x, https://cdn.sofifa.net/flags/ie@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 25,
+        "nationName": "République d'Irlande"
+    },
+    {
+        "id": 322,
+        "value": "Veikkausliiga",
+        "flag": "<img title=\"Finlande\" alt=\"\" src=\"https://cdn.sofifa.net/flags/fi.png\" data-srcset=\"https://cdn.sofifa.net/flags/fi@2x.png 2x, https://cdn.sofifa.net/flags/fi@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 17,
+        "nationName": "Finlande"
+    },
+    {
+        "id": 7,
+        "value": "Série A",
+        "flag": "<img title=\"Brésil\" alt=\"\" src=\"https://cdn.sofifa.net/flags/br.png\" data-srcset=\"https://cdn.sofifa.net/flags/br@2x.png 2x, https://cdn.sofifa.net/flags/br@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 54,
+        "nationName": "Brésil"
+    },
+    {
+        "id": 353,
+        "value": "Liga Profesional de Fútbol",
+        "flag": "<img title=\"Argentine\" alt=\"\" src=\"https://cdn.sofifa.net/flags/ar.png\" data-srcset=\"https://cdn.sofifa.net/flags/ar@2x.png 2x, https://cdn.sofifa.net/flags/ar@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 52,
+        "nationName": "Argentine"
+    },
+    {
+        "id": 337,
+        "value": "División Profesional",
+        "flag": "<img title=\"Paraguay\" alt=\"\" src=\"https://cdn.sofifa.net/flags/py.png\" data-srcset=\"https://cdn.sofifa.net/flags/py@2x.png 2x, https://cdn.sofifa.net/flags/py@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 58,
+        "nationName": "Paraguay"
+    },
+    {
+        "id": 2018,
+        "value": "Serie A",
+        "flag": "<img title=\"Equateur\" alt=\"\" src=\"https://cdn.sofifa.net/flags/ec.png\" data-srcset=\"https://cdn.sofifa.net/flags/ec@2x.png 2x, https://cdn.sofifa.net/flags/ec@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 57,
+        "nationName": "Equateur"
+    },
+    {
+        "id": 338,
+        "value": "Primera División",
+        "flag": "<img title=\"Uruguay\" alt=\"\" src=\"https://cdn.sofifa.net/flags/uy.png\" data-srcset=\"https://cdn.sofifa.net/flags/uy@2x.png 2x, https://cdn.sofifa.net/flags/uy@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 60,
+        "nationName": "Uruguay"
+    },
+    {
+        "id": 2017,
+        "value": "División de Fútbol Profesional",
+        "flag": "<img title=\"Bolivie\" alt=\"\" src=\"https://cdn.sofifa.net/flags/bo.png\" data-srcset=\"https://cdn.sofifa.net/flags/bo@2x.png 2x, https://cdn.sofifa.net/flags/bo@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 53,
+        "nationName": "Bolivie"
+    },
+    {
+        "id": 336,
+        "value": "Categoría Primera A",
+        "flag": "<img title=\"Colombie\" alt=\"\" src=\"https://cdn.sofifa.net/flags/co.png\" data-srcset=\"https://cdn.sofifa.net/flags/co@2x.png 2x, https://cdn.sofifa.net/flags/co@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 56,
+        "nationName": "Colombie"
+    },
+    {
+        "id": 335,
+        "value": "Primera Division",
+        "flag": "<img title=\"Chili\" alt=\"\" src=\"https://cdn.sofifa.net/flags/cl.png\" data-srcset=\"https://cdn.sofifa.net/flags/cl@2x.png 2x, https://cdn.sofifa.net/flags/cl@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 55,
+        "nationName": "Chili"
+    },
+    {
+        "id": 2020,
+        "value": "Liga 1",
+        "flag": "<img title=\"Pérou\" alt=\"\" src=\"https://cdn.sofifa.net/flags/pe.png\" data-srcset=\"https://cdn.sofifa.net/flags/pe@2x.png 2x, https://cdn.sofifa.net/flags/pe@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 59,
+        "nationName": "Pérou"
+    },
+    {
+        "id": 2019,
+        "value": "Primera Division",
+        "flag": "<img title=\"Venezuela\" alt=\"\" src=\"https://cdn.sofifa.net/flags/ve.png\" data-srcset=\"https://cdn.sofifa.net/flags/ve@2x.png 2x, https://cdn.sofifa.net/flags/ve@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 61,
+        "nationName": "Venezuela"
+    },
+    {
+        "id": 39,
+        "value": "Major League Soccer",
+        "flag": "<img title=\"États-Unis\" alt=\"\" src=\"https://cdn.sofifa.net/flags/us.png\" data-srcset=\"https://cdn.sofifa.net/flags/us@2x.png 2x, https://cdn.sofifa.net/flags/us@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 95,
+        "nationName": "États-Unis"
+    },
+    {
+        "id": 350,
+        "value": "Pro League",
+        "flag": "<img title=\"Arabie saoudite\" alt=\"\" src=\"https://cdn.sofifa.net/flags/sa.png\" data-srcset=\"https://cdn.sofifa.net/flags/sa@2x.png 2x, https://cdn.sofifa.net/flags/sa@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 183,
+        "nationName": "Arabie saoudite"
+    },
+    {
+        "id": 83,
+        "value": "K League 1",
+        "flag": "<img title=\"Corée du Sud\" alt=\"\" src=\"https://cdn.sofifa.net/flags/kr.png\" data-srcset=\"https://cdn.sofifa.net/flags/kr@2x.png 2x, https://cdn.sofifa.net/flags/kr@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 167,
+        "nationName": "Corée du Sud"
+    },
+    {
+        "id": 2013,
+        "value": "Pro League",
+        "flag": "<img title=\"Emirats arabes unis\" alt=\"\" src=\"https://cdn.sofifa.net/flags/ae.png\" data-srcset=\"https://cdn.sofifa.net/flags/ae@2x.png 2x, https://cdn.sofifa.net/flags/ae@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 190,
+        "nationName": "Emirats arabes unis"
+    },
+    {
+        "id": 2012,
+        "value": "Super League",
+        "flag": "<img title=\"Chine\" alt=\"\" src=\"https://cdn.sofifa.net/flags/cn.png\" data-srcset=\"https://cdn.sofifa.net/flags/cn@2x.png 2x, https://cdn.sofifa.net/flags/cn@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 155,
+        "nationName": "Chine"
+    },
+    {
+        "id": 351,
+        "value": "A-League Men",
+        "flag": "<img title=\"Australie\" alt=\"\" src=\"https://cdn.sofifa.net/flags/au.png\" data-srcset=\"https://cdn.sofifa.net/flags/au@2x.png 2x, https://cdn.sofifa.net/flags/au@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 195,
+        "nationName": "Australie"
+    },
+    {
+        "id": 2149,
+        "value": "Super League",
+        "flag": "<img title=\"Inde\" alt=\"\" src=\"https://cdn.sofifa.net/flags/in.png\" data-srcset=\"https://cdn.sofifa.net/flags/in@2x.png 2x, https://cdn.sofifa.net/flags/in@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 159,
+        "nationName": "Inde"
+    },
+    {
+        "id": 100003,
+        "value": "Thai League 1",
+        "flag": "<img title=\"Thaïlande\" alt=\"\" src=\"https://cdn.sofifa.net/flags/th.png\" data-srcset=\"https://cdn.sofifa.net/flags/th@2x.png 2x, https://cdn.sofifa.net/flags/th@3x.png 3x\" class=\"flag\" width=\"21\" height=\"16\">",
+        "nationId": 188,
+        "nationName": "Thaïlande"
+    }
+]
