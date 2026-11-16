@@ -148,22 +148,3 @@ src/
 ├── app.ts         # Point d'entrée
 └── server.ts      # Configuration et démarrage du serveur
 ```
-
-## À faire
-
-- [ ] Corriger la configuration TypeScript : `ignoreDeprecations: "6.0"` bloque la compilation avec la version installée (TS5103).
-- [ ] Réparer la recherche de joueurs : le champ `short_name_normalized` utilisé par le service est absent du JSON.
-- [ ] Aligner les interfaces TypeScript avec les champs et les types réellement présents dans les données.
-- [ ] Renforcer la validation des paramètres HTTP de recherche et de filtrage.
-- [ ] Ajouter une expiration aux JWT.
-- [ ] Relire l'utilisateur en base sur `/me` pour vérifier son existence et renvoyer ses informations à jour.
-- [ ] Ajouter des tests automatisés pour le football et l'authentification.
-
-## Vérifications réalisées
-
-- Lecture des fichiers JSON et calcul des statistiques du dataset.
-- Vérification du filtrage des joueurs du Real Madrid (`club_team_id=243`).
-- Reproduction de l'erreur de recherche liée à `short_name_normalized`.
-- Vérification TypeScript réussie avec la surcharge temporaire `--ignoreDeprecations 5.0` ; la configuration du dépôt reste à corriger.
-
-Le démarrage complet et les parcours d'inscription et de connexion n'ont pas été validés avec une instance PostgreSQL. Aucun script de test automatisé n'est configuré actuellement.
